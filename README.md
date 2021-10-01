@@ -11,7 +11,7 @@ Learn SQL by doing through multiple realistic end to end case studies that close
  - Digital marketing
  
 ### 	:seedling:Case Studies
-Case Study #1 - Danny’s Diner                           
+Case Study #1 - [Danny’s Diner](https://github.com/ade-eba/8WeekSQLChallenge/blob/main/Case%20Study%20%231%20Danny's%20Diner)                           
 Case Study #2 - Pizza Runner     
 Case Study #3 - Foodie-Fi  
 Case Study #4 - Data Bank       
